@@ -26,7 +26,7 @@
 - **Embeddings**: sentence-transformers (all-MiniLM-L6-v2)
 - **Vector Store**: FAISS
 - **Document Processing**: PyPDF2
-
+ 
 ## Setup Instructions
 
 ### Local Setup
